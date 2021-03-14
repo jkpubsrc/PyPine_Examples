@@ -14,7 +14,7 @@ setup(
 	description = "A simple example as a starting point for creating own PyPine processors.",
 	include_package_data = False,
 	install_requires = [
-		"tsukuru",
+		"pypine",
 	],
 	keywords = [
 		"pypine",
