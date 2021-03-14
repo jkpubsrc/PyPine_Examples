@@ -1,4 +1,4 @@
-PyPine
+PyPine Examples
 ==========
 
 Introduction
